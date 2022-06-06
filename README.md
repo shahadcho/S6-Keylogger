@@ -5,7 +5,7 @@ Mini Project
 
 libraries added yet 
 
- *pynput       #keyboard listener and controller library
+ *pynput         #keyboard listener and controller library
  
  
  libraries to add 
