@@ -18,12 +18,15 @@ libraries added yet
  *pillow         # screenshots etc
  
 
-Add suggestion here
+WHAT'S WHAT!!
 ------------------------
 
+*1 :  DOWNLOAD AND SAVE KEYLOGGER.py , AUTOMATED.vbs , CMD FILE.
+*2 : EDIT LOCATION/PATH IN EACH 3 FILES 
+*3 : vbs FILE IS USED TO AUTOMATE THE CMD FILE
+*4 : CMD FILE IS USED TO RUN THE SOURCE CODE WITHOUT POP UP!!
 *
 *
-*
-*
-*
-*
+
+
+CONVEY YOUR DOUBTS IN DOUBTS.txt
