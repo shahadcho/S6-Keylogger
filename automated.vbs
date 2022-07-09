@@ -1,0 +1,1 @@
+CreateObject("Wscript.shell").Run "C:\Users\shaha\Desktop\vbs_and_cmd\hello.bat", 0 , True
